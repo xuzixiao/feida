@@ -1,0 +1,53 @@
+.header{background: #f1f1f1; width: 100%; height: auto;min-width: 1200px;}
+.header-tips{ width: 100%; height: 40px; background: #FFFFFF;}
+.header-tip-con{width: 1200px; height: 40px; margin: 0 auto;}
+.header-tip-con p{width: 50%; display: block;float: left; line-height: 40px;font-size: 12px;color: #818181;}
+.header-tip-con .change-lang{float: right;text-align: right;}
+.header-tip-con .change-lang span img{vertical-align: middle; margin-right: 10px;}
+.header-tip-con .change-lang span{margin-left: 10px; margin-right: 10px;} 
+.header-tip-con .change-lang i{font-style: normal;}
+.header-main{width: 1200px; height:120px;margin:0 auto;}
+.header-main h1{display: block;float: left;width: 270px; height: 90px;}
+.header-main h1 img{display: block;width: 270px; height: 90px; margin-top: 15px;}
+.header-main i{display: block; width: 1px; height: 47px; background: #cacaca;float: left; margin: 35px 20px;}
+.header-main h2{display: block;float: left;width: 367px; height: 62px; margin-top: 30px;}
+.header-main-right{width: 400px;float: right;}
+.header-main-right .head-tel{width: 280px; height:68px; margin-top:30px;float:left; margin-right: 10px;}
+.header-main-right .head-ewm{width: 80px; height: 100px; margin-top: 20px;float: left;}
+.header-main-right .head-ewm img{display: block;width: 80px;height: 80px;}
+.header-main-right .head-ewm span{line-height: 20px;font-size: 14px;}
+.nav{width: 100%; min-width: 1200px; background:#1a1f22; height: 60px; border-bottom: #0c559a solid 3px;}
+.nav-con{width: 1200px; height: 60px; margin: 0 auto;}
+.nav-con .active{ background:#0c559a;}
+.nav-con .active i{display: none!important;}
+.nav-con li{display: block;float: left;width: 230px; height:60px;text-align: center; line-height: 60px;position: relative;}
+.nav-con li a{display: block;width: 230px; height:60px;text-align: center; line-height: 60px;font-size: 16px;color: #FFFFFF;}
+.nav-con li i{display: block;width: 6px; height: 1px; background: #FFFFFF; position: absolute; top: 29px;right: -3px;}
+.nav-con li:last-child i{display: none;}
+.banner{width:100%; height: auto;min-width: 1200px;}
+.banner img{width: 100%;}
+.search{width: 100%; min-width: 1200px; height: 77px;}
+.search-con{width: 1200px; height:77px; margin: 0 auto; }
+.search-con .search-left{width: 800px; height: 77px;float: left;overflow: hidden;}
+.search-con .search-left p{font-size: 14px;color: #646464; line-height: 77px;}
+.search-con .search-left p a{color: #646464; margin-left: 5px; margin-right: 5px;}
+.search-con .search-right{width:400px; height: 77px;float: left; position: relative;}
+.search-con .search-right input{width:350px; padding-right: 45px; height: 33px; margin-top: 22px; padding-left: 3px; border-top: none; border-right: none; border-left: none; border-bottom: #ababab solid 1px;}
+.search-con .search-right .search-btn{ display:block;width: 30px;height: 30px;position: absolute;right: 5px;top: 26px;}
+.section{width: 100%; height: 575px; background: #f1f1f1; min-width: 1200px;}
+.section .section-server{width:1200px; height: 575px; margin: 0 auto;}
+.section .section-server .section-title{width: 100%; height:70px; margin-top: 40px;float: left;position: relative;}
+.section .section-server .section-title h3{font-size: 36px;text-align: center;font-weight: normal;color: #333333; line-height: 70px; border-bottom: #d9d9d9 solid 1px;}
+.section .section-server .section-title span{display: block;width: 140px; height: 3px; position: absolute; left: 50%; bottom: -2px; margin-left: -70px;}
+.section .section-server .section-title span .left-line{display: block;width: 70px; height: 3px; background:#0e599d;float: left;}
+.section .section-server .section-title span .right-line{display: block;width: 70px; height: 3px; background:#5da654;float: left;}
+.section .section-server .section-con{width: 100%; height: 463px;float: left;}
+.section .section-server .section-con p{text-align: center;line-height: 50px;color: #4f4f4f;font-size: 17px;}
+.section .section-server .section-con .xiangmu{width: 1200px;height: 380px; margin: 0 auto;padding-top: 30px; position: relative;}
+.section .section-server .section-con .xiangmu ul li{float: left;width: 273px; height: 306px; border: #d7d7d7 solid 4px; margin-right:25px ;}
+.section .section-server .section-con .xiangmu ul li:hover{border:#0b5da2 solid 4px;}
+.section .section-server .section-con .xiangmu .se-zixun{display:block;width: 225px; height: 50px;position: absolute;bottom: -25px; left:50%; margin-left: -112px;}
+
+
+
+
